@@ -1,3 +1,12 @@
+//	Olivia Clark, Oishi Banerjee | CS584 CA1 - Fore & Aft | Due Thurs 1/30/25 10pm
+//	
+// 
+//	Performance summary:
+// 
+//	Search Method:	Best First Search
+//	Performance:
+
+
 #include <iostream>
 #include <fstream>
 #include <vector>
