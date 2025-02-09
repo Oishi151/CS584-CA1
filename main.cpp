@@ -3,8 +3,8 @@
 // 
 //	Performance summary:
 // 
-//			Search Method:	Best First Search
-//			Performance:
+//	Search Method:	Best First Search
+//	Performance:
 #include <iostream>
 #include <fstream>
 #include <vector>
